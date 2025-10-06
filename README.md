@@ -6,6 +6,7 @@
 **Group:** G7  
 
 | Dhwani Patel | 300376445 | Team Lead | pateld8@student.douglascollege.ca |
+
 | Jayden Prasad | 300367841 | Team Member | prasadj6@student.douglascolege.ca |
 
 **App Name:** HabitHub  
