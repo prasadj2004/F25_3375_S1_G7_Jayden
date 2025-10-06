@@ -23,7 +23,7 @@ HabitHub turns everyday routines into joyful, communal activities.
 
 By bridging family habit-building with adult social goal-tracking, HabitHub transforms habits from isolated chores into a shared, community-driven journey.
 
-## 💡 Value Proposition
+## Value Proposition
 HabitHub is not just another habit tracker — it’s a **shared ecosystem** for all ages.  
 - **Children:** Build routines through interactive characters and fun challenges.  
 - **Parents:** Model positive behaviors and track children’s progress.  
